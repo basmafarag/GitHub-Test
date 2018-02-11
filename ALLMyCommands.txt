@@ -1,6 +1,6 @@
-1) create a repo from github
+1) create a repo in github
 
-2)'cd Desktop' on git bash to have a local repo on my pc
+2)'$ cd Desktop' on git bash to have a local repo on my pc
 
 3) clone the repo '$ git clone 'copy the repo link'
 
@@ -15,7 +15,10 @@
 
 8) Push the 3 files: '$ git push ' 
 
-9) Delete the second file: '$ +git rm --cached 'file name' '
+9) Create ALLMyCommands.txt : -put it in the local directory
+			      -' $ add .'
 
-10) Restore the deleted file : '$ git add'
+10) Delete the second file: '$ +git rm --cached 'file name' '
+
+11) Restore the deleted file : '$ git add .'
 
